@@ -14,4 +14,4 @@ FEATURES:
 
 -Scoreboard system, shows usernames and their percentage of correct answers. Shows average score of all participants. 
 
--Type checking with conditionals and exceptions. No crashes. 
+-Airtight input validation system. 
