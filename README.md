@@ -15,3 +15,6 @@ FEATURES:
 -Scoreboard system, shows usernames and their percentage of correct answers. Shows average score of all participants. 
 
 -Airtight input validation system. 
+
+
+Use this however you like, it's cool. 
